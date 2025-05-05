@@ -1,0 +1,6 @@
+Event, Details, Time(s)
+Start, 05/05/2025 08:17:56, 0.3533333
+Auth, Sent: {"deviceId":"423eb08d12de8eebc3ccdfe0c50c3a84d4af7609"} -- Received: {"registered":true,"device":"423eb08d12de8eebc3ccdfe0c50c3a84d4af7609","token":436920,"name":"423eb08d12de8eebc3ccdfe0c50c3a84d4af7609","agentId":"6708d877f86545dd1d64ae0f","cashierId":"671e9e60b1418c7fd2eeb8cf","currency":"₦","superAgentId":"6708d877f86545dd1d64ae0f","id":"67f658f8e8ce1e0011e4cd7c","setBonus":5.5}, 0.8920913
+Connected, Connected to socket, 3.110919
+Join room, {"deviceId":"67f658f8e8ce1e0011e4cd7c","agentId":"6708d877f86545dd1d64ae0f"}, 3.110919
+
