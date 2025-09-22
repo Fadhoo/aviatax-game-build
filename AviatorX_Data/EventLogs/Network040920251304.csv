@@ -1,0 +1,12 @@
+Event, Details, Time(s)
+ Start, 04/09/2025 12:04:39, 0.03331999 
+ Auth, Sent: {"deviceId":"6559896c3b3e45105ff4dc13fe3ee9d9200d2fe3"} -- Received: {"registered":true,"device":"6559896c3b3e45105ff4dc13fe3ee9d9200d2fe3","token":136318,"name":"6559896c3b3e45105ff4dc13fe3ee9d9200d2fe3","agentId":"68501d55d94a8d001206f5a6","cashierId":"68503b05aaaa100012d59d35","currency":"KSh","superAgentId":"68501d55d94a8d001206f5a6","id":"6894912227cc92000e580f0b","setBonus":10}, 0.6317406 
+ Connected, Connected to socket, 3.032578 
+ Join room, {"deviceId":"6894912227cc92000e580f0b","agentId":"68501d55d94a8d001206f5a6"}, 3.032578 
+
+ PlaceBet Request Sent: , {"stake":20,"roundId":"17569911409549951","deviceId":"6894912227cc92000e580f0b","cashierId":"68503b05aaaa100012d59d35","playerId":"1","gameType":"aviatax"}, 91.43615 
+ PlaceBet Response Received: , Response Time: 0.3067703, Response: {"status":"ok","data":{"freebet":false,"winnings":0,"potentialWinnings":0,"roundHasEnded":false,"payout":false,"cancelled":false,"stake":20,"gameType":"aviatax","cashierId":"68503b05aaaa100012d59d35","ticketId":"3398240810","betType":"single","playerId":"1","roundId":"17569911409549951","deviceId":"6894912227cc92000e580f0b","selections":[],"createdAt":"2025-09-04T13:06:10.286Z","id":"68b98ec25980ed000ecfddec"}}, 91.74292 
+
+ drop-jackpot, {"playerId":1,"jackpotAmount":1000,"jackpotType":"Silver"}, 97.95847 
+ DropJackpot Successfull, Jackpot sent to Player: 1, 97.95847 
+
